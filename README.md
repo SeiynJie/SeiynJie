@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Engagement Bot (EngagementX) for Twitter, LinkedIn, and Instagram<br>🌱 I’m currently learning about CyberSecurity, WebDev, and mostly anything that looks like fun!<br>💬 Ask me about anything<br>⚡ Fun fact: I used to create Roblox games
+🔭 For hire: Front-end work!<br>🌱 I’m currently learning about CyberSecurity, WebDev, and mostly anything that looks like fun!<br>💬 Ask me about anything<br>⚡ Fun fact: I used to create Roblox games
 
 
 ## 🌐 Socials:
