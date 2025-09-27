@@ -1,6 +1,3 @@
-# Portfolio site:
-[aaronasperilla.vercel.app](https://aaronasperilla.vercel.app)
-
 # 💫 About Me:
 🔭 For hire: Recruiter<br>🌱 I’m currently learning about CyberSecurity, WebDev, and mostly anything that looks like fun!<br>💬 Ask me about anything<br>⚡ Fun fact: I used to create Roblox games
 
